@@ -26,4 +26,5 @@
   testeStatic();
   testeStatic();
   testeStatic();
+  testeStatic();
   
